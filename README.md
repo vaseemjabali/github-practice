@@ -25,9 +25,9 @@ To resolve this issue:
 
 ### Instructor
 
-Ray Villalobos 
-                            
-Author, Multimedia Developer
+Mohammed Vaseem
+
+Full stack web developer
 
                             
 
